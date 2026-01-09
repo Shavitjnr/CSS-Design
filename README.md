@@ -33,6 +33,3 @@ This project showcases a dynamic canvas animation integrated with a shadcn/ui de
 - `dicons` was replaced with `lucide-react` for icon usage.
 - Images rely on placeholders or standard styles.
 - If this CSS design is not connecting or running then
-- ***
-
-made by Shavit
