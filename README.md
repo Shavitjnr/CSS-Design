@@ -2,6 +2,16 @@
 
 This project showcases a dynamic canvas animation integrated with a shadcn/ui design system.
 
+## Screenshots
+
+![Application Interface - View 1](Screenshot%202026-01-12%20210413.png)
+
+![Application Interface - View 2](Screenshot%202026-01-12%20210430.png)
+
+![Application Interface - View 3](Screenshot%202026-01-12%20210449.png)
+
+![Application Interface - View 4](Screenshot%202026-01-12%20210504.png)
+
 ## Setup
 
 1. **Install Dependencies**:
@@ -32,4 +42,3 @@ This project showcases a dynamic canvas animation integrated with a shadcn/ui de
 
 - `dicons` was replaced with `lucide-react` for icon usage.
 - Images rely on placeholders or standard styles.
-- If this CSS design is not connecting or running then
